@@ -1,0 +1,28 @@
+body{
+    background-image: linear-gradient(to right, rgba(255, 255, 255, 0.79),rgba(255, 255, 255, 0.83)),url(../include/parliament.jpg) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+/*    background-image: */
+}
+.disclamation{
+    text-align-last: center;
+    margin-top: 10px;
+    width: 60%;
+    margin: 0 auto;
+}
+.logo{
+    margin: 5px;    
+}
+.header-img{
+    align-content: center;
+    margin: 0 auto;
+    width: 100%;
+}
+.header-img img{
+    width: 100%;
+}
+#content{
+    background-color: white; 
+    padding: 10px;
+    border-radius: 5px;
+}
